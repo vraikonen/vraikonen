@@ -1,4 +1,4 @@
-Hi 👋 My name is Nikola Vracevic
+Hi 👋 My name is Nikola Vračević
 ================================
 
 Data Scientist/Data Engineer
