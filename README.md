@@ -42,3 +42,4 @@ At the begining of my bachelor in Urban/Regional planning, I developed a strong 
  -->
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vraikonen&layout=donut)](https://github.com/vraikonen/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vraikonen&hide=jupyter%20notebook,html,css)](https://github.com/vraikonen/github-readme-stats)
